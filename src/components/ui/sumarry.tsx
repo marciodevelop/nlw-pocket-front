@@ -4,7 +4,6 @@ import { DialogTrigger } from "./dialog";
 import { InOrbitIcon } from "./in-orbit-icon";
 import { Progress, ProgressIndicator } from "./progress-bar";
 import { Separator } from "./separator";
-import { OutlineButton } from "./outline-button";
 import { useQuery } from "@tanstack/react-query";
 import { getSummary } from "../../http/get-summary";
 import dayjs from "dayjs";
